@@ -1,0 +1,26 @@
+Alfa	Apples	Able	one#feedback for one
+Bravo	Butter	Baker	two#feedback for two
+Charlie	three#feedback for three
+Delta	Duff	Dog	four#feedback for four
+Echo	Edward	Easy	five#feedback for five
+Foxtrot	Freddy	Fox	six#feedback for six
+Golf	George	seven#feedback for seven
+Hotel	Harry	How	eight#feedback for eight
+India	Ink	Item	nine#feedback for nine
+Juliett	Johnnie	Jig	ten#feedback for ten
+Kilo	King	eleven#feedback for eleven
+Lima	London	Love	twelve#feedback for twelve
+Mike	Monkey	thirteen#feedback for thirteen
+November	Nuts	Nan	fourteen#feedback for fourteen
+Oscar	Orange	Oboe	fifteen#feedback for fifteen
+Papa	Pudding	Peter	sixteen#feedback for sixteen
+Quebec	Queenie	Queen	seventeen#feedback for seventeen
+Romeo	Robert	Roger	eighteen#feedback for eighteen
+Sierra	Sugar	nineteen#feedback for nineteen
+Tango	Tommy	Tare	twenty#feedback for twenty
+Uniform	Uncle	twenty-one#feedback for twenty-one
+Victor	Vinegar	twenty-two#feedback for twenty-two
+Whiskey	Willie	William	twenty-three#feedback for twenty-three
+X-ray	Xerxes	twenty-four#feedback for twenty-four
+Yankee	Yellow	Yoke	twenty-five#feedback for twenty-five
+Zulu	Zebra	twenty-six#feedback for twenty-six
